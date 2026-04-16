@@ -1,4 +1,3 @@
-from abc import ABC, abstractmethod
 #CLASE BASE FIGURA
 class Figura():
     def __init__(self,color):
