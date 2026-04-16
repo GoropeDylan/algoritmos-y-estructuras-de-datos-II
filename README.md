@@ -1,2 +1,2 @@
 # algoritmos-y-estructuras-de-datos-II
-python
+REPOSITORIO PRINCIPAL DE ALGORITMO Y ESTRUCTURA DE DATOS II
