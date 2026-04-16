@@ -1,4 +1,3 @@
-from abc import ABC, abstractmethod
 #CLASE BASE VEHICULO
 class Vehiculo():
     def __init__(self,marca,vel_max):
