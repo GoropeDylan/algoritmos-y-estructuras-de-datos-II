@@ -26,7 +26,7 @@ class Circulo(Figura):
 lista = [Rectangulo('Rojo',7,4),Rectangulo('Naranja',10,2),Circulo('Azul',3),Circulo('Verde',1)]
 #MOSTRANDO AREA 
 for i in lista:
-    print(i.area())
+    print(i.area()) #POLIMORFISMO
 #COLOR
 for i in lista:
-    i.describir()
+    i.describir() #POLIMORFISMO
